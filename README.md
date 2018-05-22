@@ -35,7 +35,7 @@ Subterranea is a game in which you controlan individual delving through various 
 
 • They may use the arrow keys to move left, right, up, or down.
 
-• They may also choose to attackif an enemy is adjacent to them.
+• They may also choose to attack if an enemy is adjacent to them.
 
 • They may move to a tile occupied by a weapon or armor set to equip it.
 
